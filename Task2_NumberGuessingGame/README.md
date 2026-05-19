@@ -25,3 +25,14 @@ A console-based Java game where the player guesses a randomly generated number.
 
 ## Author
 Srikar
+
+## Output Screenshots
+
+### Main Menu
+![Main Menu](Main%20Menu.png)
+
+### Rules Screen
+![Rules](Rules.png)
+
+### Gameplay Output
+![Gameplay](Gameplay.png)
